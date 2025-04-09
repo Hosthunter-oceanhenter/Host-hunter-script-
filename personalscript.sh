@@ -64,7 +64,7 @@ mkdir /etc/funny/cache/vmess-ws-orbit
 mkdir /etc/funny/cache/vmess-ws-orbit1
 mkdir /etc/funny/cache/socks5
 clear
-bash <(curl -Ls https://raw.githubusercontent.com/Bishu9/script/main/auto_domain.sh)
+bash <(https://raw.githubusercontent.com/Hosthunter-oceanhenter/Host-hunter-script-/refs/heads/main/auto_domain.sh)
 clear
 }
 
